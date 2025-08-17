@@ -1,0 +1,9 @@
+import random
+names = ["Alan", "Iza", "Anna", "Marek"]
+
+#1 opcja
+print(random.choice(names))
+
+random_choice = random.randint(0, 4)
+
+print(names[random_choice])
