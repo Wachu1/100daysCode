@@ -5,17 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cff6866c-3a1e-462a-bb2e-a858912ff09b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/python/3day/love_calculator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/3day/treasure_game.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/4day/banker_roulette" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/4day/flip_coin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/4day/hiphaphop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/4day/my_module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/4day/testRan.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/5day/FizzBuzz.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/5day/PasswordGenerator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/5day/range.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/8day/challange_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/8day/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,14 +42,17 @@
     "Python.PasswordGenerator.executor": "Run",
     "Python.band-name-generator.executor": "Run",
     "Python.banker_roulette.executor": "Run",
+    "Python.challange_year.executor": "Run",
     "Python.first.executor": "Run",
     "Python.flip_coin.executor": "Run",
     "Python.hello.executor": "Run",
     "Python.hiphaphop.executor": "Run",
     "Python.love_calculator.executor": "Run",
+    "Python.main.executor": "Run",
     "Python.primitive.executor": "Run",
     "Python.random.executor": "Run",
     "Python.range.executor": "Run",
+    "Python.task.executor": "Run",
     "Python.test.executor": "Run",
     "Python.testRan.executor": "Run",
     "Python.tip_calculator.executor": "Run",
@@ -73,29 +68,7 @@
       <recent name="$PROJECT_DIR$/.venv" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.banker_roulette">
-    <configuration name="FizzBuzz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="100daysCode" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/5day" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5day/FizzBuzz.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.task">
     <configuration name="PasswordGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100daysCode" />
       <option name="ENV_FILES" value="" />
@@ -118,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="banker_roulette" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="challange_year" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100daysCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,11 +100,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/4day" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/8day" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4day/banker_roulette" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/8day/challange_year.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="flip_coin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100daysCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,11 +122,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/4day" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/7day_hangman" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4day/flip_coin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/7day_hangman/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +135,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hiphaphop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="100daysCode" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,11 +144,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/4day" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/8day" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4day/hiphaphop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/8day/task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="100daysCode" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +181,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.banker_roulette" />
-        <item itemvalue="Python.flip_coin" />
-        <item itemvalue="Python.hiphaphop" />
+        <item itemvalue="Python.task" />
+        <item itemvalue="Python.challange_year" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.PasswordGenerator" />
-        <item itemvalue="Python.FizzBuzz" />
       </list>
     </recent_temporary>
   </component>
